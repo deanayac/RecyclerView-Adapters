@@ -1,0 +1,2 @@
+# RecyclerView-Adapters
+Workshop practico
